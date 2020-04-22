@@ -2,8 +2,9 @@
 #include"ZakyAdham.h"
 
 
-void main()
+int main()
 {
 	Abdelrahman();
 	ZakyAdham();
+	return 0;
 }
